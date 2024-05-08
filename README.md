@@ -8,9 +8,10 @@
 - 📫 You can reach me at **maddox.barron31@gmail.com**
 - 🤝 Connect with me on [**LinkedIn**](https://linkedin.com/in/maddox-barron)
 - ✍️ Read my blogs and view my projects on [**my personal site**](https://maddoxbarron.com)
-<br><br>
 </td></tr>
 </table>
+<br><be>
+<br><br>
 
 <h3 align="center">Languages and Tools I Frequently Use:</h3>
 <p align="center">
