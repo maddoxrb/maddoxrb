@@ -3,7 +3,7 @@
 
 <table align="center">
 <tr><td>
-<br><br>
+
 - 🌱 I’m currently interested in **applications of machine learning in the product management lifecycle**
 - 📫 You can reach me at **maddox.barron31@gmail.com**
 - 🤝 Connect with me on [**LinkedIn**](https://linkedin.com/in/maddox-barron)
