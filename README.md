@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp; <!-- Invisible Separator -->
+  </a>&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Invisible Separator -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />&nbsp;&nbsp;&nbsp;
   </a>&#8287;&#8287;&#8287; <!-- Invisible Separator -->
