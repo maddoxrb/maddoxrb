@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maddox Barron</h1>
 <h3 align="center">A Computer Science Student @ Vanderbilt University</h3>
-<p align="center">
+
 - 🌱 I’m currently interested in **applications of machine learning in the product management lifecycle**
-</p>
-<p align="center">
+
+
 - 📫 How to reach me **maddox.barron31@gmail.com**
-</p>
+
 
 
 
