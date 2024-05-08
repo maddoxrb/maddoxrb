@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maddox Barron</h1>
 <h3 align="center">A Computer Science Student @ Vanderbilt University</h3>
-<br><br>
+
 <table align="center">
 <tr><td>
 
