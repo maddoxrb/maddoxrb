@@ -9,7 +9,7 @@
    **LinkedIn**
   </a>
 
-- Read my blogs and view my projects on <a href="https://maddoxbarron.com" target="blank">
+- ✍️ Read my blogs and view my projects on <a href="https://maddoxbarron.com" target="blank">
    **my personal site**
   </a>
 
