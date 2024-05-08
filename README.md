@@ -13,7 +13,9 @@
    **my personal site**
   </a>
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png
+
+
+                                                                                                                                        
 
 <h3 align="center">Languages and Tools I Frequently Use:</h3>
 <p align="center">
@@ -40,6 +42,9 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_lo
   </a>&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Invisible Separator -->
   <a  target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Invisible Separator -->
+   <a  target="_blank" rel="noreferrer">
+    <img src="https://github.com/maddoxrb/maddoxrb/assets/92940804/2512367c-cdd7-4041-85bb-20951adc6e0a" alt="mysql" width="40" height="40" />
   </a>&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Invisible Separator -->
   <!-- Invisible Separator -->
 
