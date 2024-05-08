@@ -3,23 +3,19 @@
 
 - 🌱 I’m currently interested in **applications of machine learning in the product management lifecycle**
 
-
 - 📫 You can reach me at **maddox.barron31@gmail.com**
 
-- 🤝 Connect withe me on <a href="https://linkedin.com/in/maddox-barron" target="blank">
+- 🤝 Connect with me on <a href="https://linkedin.com/in/maddox-barron" target="blank">
    **LinkedIn**
   </a>
 
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/maddox-barron" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maddox-barron" height="30" width="40" />
+- Read my blogs and view my projects on <a href="https://maddoxbarron.com" target="blank">
+   **my personal site**
   </a>
-</p>
 
-<h3 align="center">Languages and Tools:</h3>
+
+
+<h3 align="center">Languages and Tools I Frequently Use:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
