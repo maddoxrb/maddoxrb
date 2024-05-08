@@ -4,8 +4,11 @@
 - 🌱 I’m currently interested in **applications of machine learning in the product management lifecycle**
 
 
-- 📫 How to reach me **maddox.barron31@gmail.com**
+- 📫 You can reach me at **maddox.barron31@gmail.com**
 
+- 🤝 Connect withe me on <a href="https://linkedin.com/in/maddox-barron" target="blank">
+   **LinkedIn**
+  </a>
 
 
 
