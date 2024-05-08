@@ -1,43 +1,14 @@
-# 👋 Hi, I'm [Your Name]
+<h1 align="center">Hi 👋, I'm Maddox Barron</h1>
+<h3 align="center">A Computer Science Student @ Vanderbilt University</h3>
 
-## About Me 📖
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/maddox barron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maddox barron" height="30" width="40" /></a>
+</p>
 
-- 🎓 I'm currently studying [Your Field or Major] at [Your University]
-- 💻 I'm working on [mention any projects or interests]
-- 🌱 I'm currently learning [mention any technologies or tools]
-- 👯 I'm looking to collaborate on [mention any type of projects]
-- 🤔 I'm looking for help with [mention any area where you need help]
-- 💬 Ask me about [mention topics you're comfortable discussing]
-- 📫 How to reach me: [Your Email or Social Media]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Share a fun fact about yourself]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## My GitHub Stats 📊
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maddoxrb&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="maddoxrb" /></p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
-## Languages and Tools 🛠️
-
-[Insert icons or badges for your skills, e.g., Python, JavaScript, HTML, CSS, etc.]
-
-## Projects 🚀
-
-- [Project Name](Link) - Short description of the project.
-- [Project Name](Link) - Short description of the project.
-- [Project Name](Link) - Short description of the project.
-
-## Connect with Me 🤝
-
-[![LinkedIn][1.1]][1]
-[![GitHub][2.1]][2]
-[![Twitter][3.1]][3]
-
-<!-- Icons -->
-
-[1.1]: [insert link to LinkedIn icon]
-[1]: [insert your LinkedIn URL]
-[2.1]: [insert link to GitHub icon]
-[2]: [insert your GitHub URL]
-[3.1]: [insert link to Twitter icon]
-[3]: [insert your Twitter URL]
-
+Suppo
