@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Maddox Barron</h1>
 <h3 align="center">A Computer Science Student @ Vanderbilt University</h3>
 
-<table align="center" style="border: none;">
-<tr><td>
+<table align="center">
+  <tr>
+    <td>
 
 - 🌱 I’m currently interested in **applications of machine learning in the product management lifecycle**
 - 📫 You can reach me at **maddox.barron31@gmail.com**
 - 🤝 Connect with me on [**LinkedIn**](https://linkedin.com/in/maddox-barron)
 - ✍️ Read my blogs and view my projects on [**my personal site**](https://maddoxbarron.com)
 
-</td></tr>
+    </td>
+  </tr>
 </table>
+
 
 
 <br>
