@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maddox Barron</h1>
 <h3 align="center">A Computer Science Student @ Vanderbilt University</h3>
 
-- 🌱 I’m currently interested in **applications of machine learning in the product management lifecycle**
+  - 🌱 I’m currently interested in **applications of machine learning in the product management lifecycle**
 
 - 📫 You can reach me at **maddox.barron31@gmail.com**
 
