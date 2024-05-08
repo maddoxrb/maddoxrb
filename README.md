@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maddox Barron</h1>
 <h3 align="center">A Computer Science Student @ Vanderbilt University</h3>
-
+<br>
 <table align="center">
 <tr><td>
 
@@ -10,7 +10,7 @@
 - ✍️ Read my blogs and view my projects on [**my personal site**](https://maddoxbarron.com)
 </td></tr>
 </table>
-<br><br>
+<br>
 
 <h3 align="center">Languages and Tools I Frequently Use:</h3>
 <p align="center">
