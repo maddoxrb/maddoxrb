@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maddox Barron</h1>
 <h3 align="center">A Computer Science Student @ Vanderbilt University</h3>
-
+<p align="center">
 - 🌱 I’m currently learning **f**
 
 - 👯 I’m looking to collaborate on **r**
@@ -8,6 +8,7 @@
 - 🤝 I’m looking for help with **t**
 
 - 📫 How to reach me **maddox.barron31@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
