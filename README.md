@@ -17,7 +17,7 @@
 
 <h3 align="center">Languages and Tools I Frequently Use:</h3>
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com" target="blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; <!-- Invisible Separator -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
